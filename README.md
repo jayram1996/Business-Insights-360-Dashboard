@@ -4,7 +4,7 @@ AtliQ Hardware, a rapidly growing global company, decided to harness Power BI fo
 
 This project follows the Codebasics Power BI course by Dhaval Patel & Hemanand Vadivel, bringing together advanced DAX, robust data modeling, and interactive dashboards to answer stakeholders' pressing "Why?" questions.
 
-🔗 https://app.powerbi.com/groups/me/reports/6ab86d2b-6aa7-44f0-9a75-ada00044edb0/74cddb7431d34b06f17d?experience=power-bi
+🔗 Live Dashboard link: https://app.powerbi.com/groups/me/reports/6ab86d2b-6aa7-44f0-9a75-ada00044edb0/74cddb7431d34b06f17d?experience=power-bi
 
 🚀 Project Highlights
 Built a fully interactive end-to-end Power BI dashboard with role-specific views for executives and teams.
